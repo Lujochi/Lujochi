@@ -9,7 +9,7 @@
 ## Sobre mim
 Prazer, me chamo Luan, tenho 20 anos e moro em Blumenau–SC. Curto muito jogos online e sair para se divertir com os amigos. Também gosto muito de tecnologias, comecei me interessando pela parte de manutenção de hardware e hoje estou aqui, nos códigos. Me apaixonei pela área de desenvolvimento, tanto web quanto de jogos, e agora estou em busca de oportunidades de crescer e me tornar um grande desenvolvedor no mercado.
 
-## Linguagens
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
