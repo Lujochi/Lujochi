@@ -17,13 +17,13 @@ Prazer, me chamo Luan, tenho 20 anos e moro em Blumenau–SC. Curto muito jogos 
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=typescript">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=next">
 </div>
 
 ### BackEnd:
 <div style="display: inline_block">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=typescript">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=nest">
   <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=jest">
