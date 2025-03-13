@@ -10,13 +10,35 @@
 Prazer, me chamo Luan, tenho 20 anos e moro em Blumenau–SC. Curto muito jogos online e sair para se divertir com os amigos. Também gosto muito de tecnologias, comecei me interessando pela parte de manutenção de hardware e hoje estou aqui, nos códigos. Me apaixonei pela área de desenvolvimento, tanto web quanto de jogos, e agora estou em busca de oportunidades de crescer e me tornar um grande desenvolvedor no mercado.
 
 ## Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+### FrontEnd:
+<div style="display: inline_block">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=typescript">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=next">
+</div>
+
+### BackEnd:
+<div style="display: inline_block">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=nest">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=jest">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=postgresql">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=prisma">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=express">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=docker">
+</div>
+
+### Ferramentas:
+<div style="display: inline_block">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=figma">
 </div>
  
 <br>
